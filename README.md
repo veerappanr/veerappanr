@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @veerappanr
 - 👀 I’m interested in IT Administrator, Analyst. 
 - 🌱 Professional certified Google IT Automation with Python
-- 🌱 I’m currently Python in Data Manipulation, Deep learning bulid Neural network, Bootcamp for Data Science. 
+- 🌱 I’m currently Learning Python in Data Manipulation, Deep learning bulid Neural network, Bootcamp for Data Science. 
 - 💞️ I’m looking to collaborate on new team
 
 

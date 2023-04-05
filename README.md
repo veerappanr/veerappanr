@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @veerappanr
-- 👀 I’m interested in IT Manager 
+- 👀 I’m looking IT Manager role 
 - 🌱 Professional certified Google IT Automation with Python
 - 🌱 I’m currently Learning Python Data Science, Cyber Secuirty. 
 - 💞️ I’m looking to collaborate on new team
